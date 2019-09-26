@@ -24,6 +24,10 @@ describe('Actions demo',function(){
 					browser.getTitle().then(function(title)
 					{
 						console.log(title+" after the switch");
+						console.log(title+" after the switch");
+						console.log(title+" after the switch");
+						console.log(title+" after the switch");
+						console.log(title+" after the switch");
 					});
 
 				});
