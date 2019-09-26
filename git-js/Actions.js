@@ -28,11 +28,7 @@ describe('Actions demo',function(){
 
 						console.log(title+" after the switch0");
 
-						console.log(title+" after the switch1");
-						console.log(title+" after the switch2");
-						console.log(title+" after the switch3");
-						console.log(title+" after the switch4");
-						console.log(title+" after the switch5");
+						
 					});
 
 				});
