@@ -25,7 +25,9 @@ describe('Actions demo',function(){
 					{	
 							//juste some changes
 						console.log(title+" after the switch-1");
-
+							//juste some changes
+						console.log(title+" after the switch0");
+						//juste some changes
 						console.log(title+" after the switch0");
 
 						
@@ -36,9 +38,8 @@ describe('Actions demo',function(){
 						
 			});
 		}
-		);;
+		);
 		})
 	
-	//juste some changes
 	
 })
