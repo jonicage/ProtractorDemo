@@ -22,7 +22,12 @@ describe('Actions demo',function(){
 					});
 					browser.switchTo().window(hanles[1]);
 					browser.getTitle().then(function(title)
-					{
+					{	
+							//juste some changes
+						console.log(title+" after the switch");
+
+						console.log(title+" after the switch");
+
 						console.log(title+" after the switch");
 					});
 
@@ -34,6 +39,6 @@ describe('Actions demo',function(){
 		);;
 		})
 	
-	
+	//juste some changes
 	
 })
