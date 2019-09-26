@@ -24,11 +24,15 @@ describe('Actions demo',function(){
 					browser.getTitle().then(function(title)
 					{	
 							//juste some changes
-						console.log(title+" after the switch");
+						console.log(title+" after the switch-1");
 
-						console.log(title+" after the switch");
+						console.log(title+" after the switch0");
 
-						console.log(title+" after the switch");
+						console.log(title+" after the switch1");
+						console.log(title+" after the switch2");
+						console.log(title+" after the switch3");
+						console.log(title+" after the switch4");
+						console.log(title+" after the switch5");
 					});
 
 				});

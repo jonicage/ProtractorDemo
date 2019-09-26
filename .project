@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ProtractorDemo</name>
+=======
+	<name>gitStuff</name>
+>>>>>>> 19e4dd9a369d04c003e6933108a66c656f9ed2cd
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 	</buildSpec>
 	<natures>
+=======
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+>>>>>>> 19e4dd9a369d04c003e6933108a66c656f9ed2cd
 	</natures>
 </projectDescription>
